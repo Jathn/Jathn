@@ -23,7 +23,6 @@ Here are some ideas to get you started:
 - 🌱 I’m currently learning deep learning, AI & more. This includes deepening my knowledge of web development.
 - 💬 Ask me about anything that comes to mind from my profile.
 - 📫 How to reach me: mail included in profile.
-- ⚡ Fun fact: 
 
 ## Technologies & Tools
 
