@@ -20,7 +20,7 @@ Here are some ideas to get you started:
 ## About Me
 
 - 🔭 I’m currently working on my own strategy game and a arduino library.
-- 🌱 I’m currently learning deep learning, AI & more. This includes deepening my knowledge of web development.
+- 🌱 I’m currently learning deep learning, AI, deepening my knowledge of web development & more.
 - 💬 Ask me about anything that comes to mind from my profile.
 - 📫 How to reach me: mail included in profile.
 
