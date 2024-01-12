@@ -1,5 +1,3 @@
-### Hi there 👋
-
 <!--
 **Jathn/Jathn** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -32,7 +30,7 @@ Here are some ideas to get you started:
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Jathn&layout=compact)
 
 ## GitHub Stats
-![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true)
+![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=Jathn&show_icons=true)
 
 ## Contact
 
