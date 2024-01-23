@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 
 # Hi there 👋, I'm  Jonathan Ramstedt!
 
-[![GitHub followers](https://img.shields.io/github/followers/Jathn?style=social)](https://github.com/Jathn) [![Profile Views](https://komarev.com/ghpvc/?username=Jathn)](https://github.com/Jathn) ![Humble beginnings](https://img.shields.io/badge/Status-Humble%20Beginnings-brightgreen)
+[![GitHub followers](https://img.shields.io/github/followers/Jathn?style=social)](https://github.com/Jathn) ![Humble beginnings](https://img.shields.io/badge/Status-Humble%20Beginnings-brightgreen)
 
 ## About Me
 
