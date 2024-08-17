@@ -19,8 +19,9 @@ Here are some ideas to get you started:
 
 ## About Me
 
-- 🔭 I’m currently working on my own strategy game and a arduino library.
-- 🌱 I’m currently learning deep learning, AI, deepening my knowledge of web development & more.
+Automation and Robotics Student from Finland. Currently located in Switzerland.
+- 🔭 I’m currently working on my own strategy game.
+- 🌱 I’m currently learning data and networking as an Intern in automation engineering.
 - 💬 Ask me about anything that comes to mind from my profile.
 - 📫 How to reach me: mail included in profile.
 
