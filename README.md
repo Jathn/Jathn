@@ -21,8 +21,8 @@ Here are some ideas to get you started:
 
 3rd year Automation and Robotics Student from Finland. Currently located in Switzerland,
 
-- 🔭 I’m currently working on my own strategy game.
-- 🌱 I’m currently learning data, networking and more as an Intern in automation engineering.
+- 🔭 I’m currently looking out for new opportunities.
+- 🌱 Currently learning rust, networking and exploring new ideas.
 - ⚡ Fields of interest: Machine Learning, Data Engineering, Software and Automation
 - 📫 How to reach me: mail included in profile.
 
