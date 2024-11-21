@@ -19,7 +19,7 @@ Here are some ideas to get you started:
 
 ## About Me
 
-3rd year Automation and Robotics Student from Finland. Currently located in Switzerland,
+3rd year Automation and Robotics Student from Finland. Based in Finland,
 
 - 🔭 I’m currently looking out for new opportunities.
 - 🌱 Currently learning rust, networking and exploring new ideas.
