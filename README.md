@@ -37,4 +37,3 @@ Here are some ideas to get you started:
 
 - Email: jonathan.ramstedt@gmail.com
 - LinkedIn: [My LinkedIn](https://www.linkedin.com/in/yourlinkedin/)
-- Portfolio: [My Portfolio](https://jathn.github.io/project-jathn/)
