@@ -28,15 +28,7 @@ Here are some ideas to get you started:
 
 ## Technologies & Tools
 
-I am keenly learning rust at the moment, however this is but a new interest for me. What I actually now is:
-
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Jathn&layout=compact)
-
-I am most proficient in:
-
-- Data engineering
-- Web development
-- Networking
   
 ## GitHub Stats
 ![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=Jathn&show_icons=true)
