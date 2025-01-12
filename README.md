@@ -19,7 +19,7 @@ Here are some ideas to get you started:
 
 ## About Me
 
-3rd year Automation and Robotics Student from Finland.
+3rd year B.Sc. & M.Sc. student from Finland.
 
 - 🔭 I’m currently on the lookout for new opportunities.
 - 🌱 Currently learning rust, networking and exploring new ideas.
