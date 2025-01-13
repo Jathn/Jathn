@@ -22,7 +22,7 @@ Here are some ideas to get you started:
 3rd year B.Sc. & M.Sc. student from Finland.
 
 - 🔭 I’m currently on the lookout for new opportunities.
-- 🌱 Currently learning rust, networking and exploring new ideas.
+- 🌱 Currently learning rust, deep learning, networking and exploring new ideas.
 - ⚡ Fields of interest: Machine Learning, Data Engineering, Software and Automation.
 - 📫 How to reach me: mail included in profile.
 
