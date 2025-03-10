@@ -23,7 +23,7 @@ Here are some ideas to get you started:
 
 - 🔭 I’m currently on the lookout for new opportunities.
 - 🌱 Currently learning rust, deep learning, networking and exploring new ideas.
-- ⚡ Fields of interest: Machine Learning, Data Engineering, Software and Automation.
+- ⚡ Fields of interest: Machine Learning, Networking, Cybersecurity and Automation.
 - 📫 How to reach me: mail included in profile.
 
 ## Technologies & Tools
