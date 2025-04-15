@@ -50,8 +50,8 @@
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img height="100" src="https://github-readme-stats.vercel.app/api?username=Jathn&show_icons=true&bg_color=F5F5DC&title_color=000000&text_color=000000&icon_color=000000" />
-  <img height="100" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Jathn&layout=compact&bg_color=F5F5DC&title_color=000000&text_color=000000" />
+  <img height="150" src="https://github-readme-stats.vercel.app/api?username=Jathn&show_icons=true&bg_color=F5F5DC&title_color=000000&text_color=000000&icon_color=000000" />
+  <img height="150" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Jathn&layout=compact&bg_color=F5F5DC&title_color=000000&text_color=000000" />
 </p>
 
 ---
