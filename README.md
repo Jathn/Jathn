@@ -28,7 +28,7 @@
 
 - 🎓 3rd year B.Sc. & M.Sc. student from Finland
 - 🧵 Curious mind currently exploring Rust, deep learning, networking & automation
-- 🌌 Passionate about machine learning, cybersecurity & elegant systems
+- 🌌 I explore and enjoy machine learning, cybersecurity & elegant systems
 - 📨 Reach me anytime — look above!
 
 ---
@@ -42,7 +42,8 @@
   <img src="https://img.shields.io/badge/Linux-F5F5DC?style=for-the-badge&logo=linux&logoColor=black" />
   <img src="https://img.shields.io/badge/Docker-F5F5DC?style=for-the-badge&logo=docker&logoColor=black" />
   <img src="https://img.shields.io/badge/C-F5F5DC?style=for-the-badge&logo=c&logoColor=black" />
-  
+  <img src="https://img.shields.io/badge/C++-F5F5DC?style=for-the-badge&logo=c%2B%2B&logoColor=black" />
+  <img src="https://img.shields.io/badge/Typescript-F5F5DC?style=for-the-badge&logo=typescript&logoColor=black" />
 </div>
 
 ---
@@ -58,7 +59,7 @@
 
 ## ✨ Quote I Like
 
-<p align="center"><i>"Craft, not just code. Systems, not just scripts."</i></p>
+<p align="center"><i>"Craft, not just code. Systems, not just scripts." ~ GPT4o</i></p>
 
 <p align="center">
   <img src="https://img.shields.io/badge/Mood-Happy Energy-F5F5DC?style=flat-square" />
