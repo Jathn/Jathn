@@ -27,9 +27,9 @@
 ## 🧠 About Me
 
 - 🎓 3rd year B.Sc. & M.Sc. student from Finland
-- 🧵 Curious mind currently exploring Rust, deep learning, networking & automation
-- 🌌 I explore and enjoy machine learning, cybersecurity & elegant systems
-- 📨 Reach me anytime — look above!
+- ⚙️ OT & Cybersecurity person
+- 🧵 Currently exploring Rust, deep learning, networking & automation
+- 📨 Reach me anytime: look above!
 
 ---
 
