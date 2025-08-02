@@ -38,7 +38,7 @@
 <div align="center">
   
   <img src="https://img.shields.io/badge/Rust-F5F5DC?style=for-the-badge&logo=rust&logoColor=black" />
-  <img src="https://img.shields.io/badge/Pytorch-F5F5DC?style=for-the-badge&logo=pytorch&logoColor=black" />
+  <img src="https://img.shields.io/badge/Python-F5F5DC?style=for-the-badge&logo=python&logoColor=black" />
   <img src="https://img.shields.io/badge/Linux-F5F5DC?style=for-the-badge&logo=linux&logoColor=black" />
   <img src="https://img.shields.io/badge/Docker-F5F5DC?style=for-the-badge&logo=docker&logoColor=black" />
   <img src="https://img.shields.io/badge/C-F5F5DC?style=for-the-badge&logo=c&logoColor=black" />
