@@ -26,9 +26,9 @@
 
 ## 🧠 About Me
 
-- 🎓 3rd year B.Sc. & M.Sc. student from Finland
+- 🎓 4th year B.Sc. & M.Sc. student from Finland
 - ⚙️ OT & Cybersecurity person
-- 🧵 Currently exploring Rust, networking & automation
+- 🧵 Currently exploring Rust, go, networking & automation
 - 📨 Reach me anytime: look above!
 
 ---
