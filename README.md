@@ -3,7 +3,7 @@
 -->
 
 <div align="center">
-  <h1>Hi there 👋, I'm Jonathan Ramstedt!</h1>
+  <h1>Hello, I'm Jonathan Ramstedt!</h1>
 </div>
 
 <div align="center">
@@ -24,16 +24,18 @@
 
 ---
 
-## 🧠 About Me
+## About Me
 
 - 🎓 4th year B.Sc. & M.Sc. student from Finland
 - ⚙️ OT & Cybersecurity person
-- 🧵 Currently exploring Rust, go, networking & automation
+- 🧵 Currently exploring rust, go, networking & automation
 - 📨 Reach me anytime: look above!
+
+<p>I like coffee and I am a dog person</p>
 
 ---
 
-## 🛠️ Programming Favorites
+## Programming Favorites
 
 <div align="center">
   
@@ -48,18 +50,18 @@
 
 ---
 
-## 📊 GitHub Stats
+## GitHub Stats
 
 <p align="center">
   <img height="150" src="https://github-readme-stats.vercel.app/api?username=Jathn&show_icons=true&bg_color=F5F5DC&title_color=000000&text_color=000000&icon_color=000000" />
-  <img height="150" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Jathn&layout=compact&bg_color=F5F5DC&title_color=000000&text_color=000000" />
+  <img height="150" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Jathn&layout=compact&bg_color=F5F5DC&title_color=000000&text_color=000000&exclude_repo=auto-price-estimator" />
 </p>
 
 ---
 
-## ✨ Quote I Like
+## Quote I Like
 
-<p align="center"><i>"Craft, not just code. Systems, not just scripts." ~ GPT4o</i></p>
+Make it, make it work and **then** make it pretty" ~ Someone on reddit
 
 <p align="center">
   <img src="https://img.shields.io/badge/Mood-Happy Energy-F5F5DC?style=flat-square" />
